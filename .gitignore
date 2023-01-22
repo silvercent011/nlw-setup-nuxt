@@ -1,0 +1,11 @@
+node_modules
+*.log*
+.nuxt
+.nitro
+.cache
+.output
+.env
+dist
+prisma/migrations
+prisma/dev.db
+prisma/seed.mjs
